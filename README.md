@@ -14,8 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Apache Doris Contributor](https://github.com/httpshirley/httpshirley/blob/main/Contributor.png)](https://openbadgefactory.com/c/receive?k=TLNJLHa2CQJMaDXB&e=shirley.hu%40velodb.io&t=893422964550feb55ba55e069f0dc4175d2c5abb)
 
-
+<a href="https://openbadgefactory.com/c/receive?k=TLNJLHa2CQJMaDXB&e=shirley.hu%40velodb.io&t=893422964550feb55ba55e069f0dc4175d2c5abb">
+  <img
+    src="https://github.com/httpshirley/httpshirley/blob/main/Contributor.png"
+    alt="Apache Doris Contributor"
+    width="240"
+  />
+</a>
 
 [![An image of @httpshirley's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/httpshirley)](https://holopin.io/@httpshirley)
